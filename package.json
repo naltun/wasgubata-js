@@ -1,0 +1,19 @@
+{
+  "name": "@naltun/wasgubata",
+  "version": "0.1.0",
+  "description": "Fetches geolocation information of an IP address or domain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naltun/wasgubata-js.git"
+  },
+  "author": "Noah Altunian",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/naltun/wasgubata-js/issues"
+  },
+  "homepage": "https://github.com/naltun/wasgubata-js#readme"
+}
