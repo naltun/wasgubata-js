@@ -16,7 +16,6 @@ const usage = 'usage: wgb [-h|--help || target]'
 
 // {{ START Functions
 
-
 const resolve_ip = (domain) => {
     return new Promise((resolve, reject) => {
         dns.lookup(domain, (err, data) => {
