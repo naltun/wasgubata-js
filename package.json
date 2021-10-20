@@ -1,6 +1,6 @@
 {
   "name": "@naltun/wgb",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Fetches geolocation information of an IP address or domain",
   "main": "index.js",
   "scripts": {
